@@ -1,5 +1,5 @@
 package enums;
 
 public enum Genre {
-    ROCK, POP, JAZZ, CLASSICAL, HIPHOP
+    ROCK, POP, JAZZ, CLASSICAL, HIPHOP, METAL
 }
