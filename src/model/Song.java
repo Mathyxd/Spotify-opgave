@@ -21,7 +21,7 @@ public class Song {
 
     public void setGenre() {this.genre = genre;}
 
-    public String getArist() {return artist;}
+    public String getArtist() {return artist;}
 
     public void setArtist() {this.artist = artist;}
 }
